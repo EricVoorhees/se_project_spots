@@ -10,3 +10,9 @@ site fully functional allowing you to post pictures, edit your profile, and edit
 #the link for the project is below
 
 ( https://ericvoorhees.github.io/se_project_spots/  )
+
+
+
+#project video showcase
+
+(https://drive.google.com/file/d/1yG_L8xkIJqu7wzpoX75EysrQ5iVmIN5e/view?usp=sharing)
